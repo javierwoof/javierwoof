@@ -15,5 +15,5 @@ Welcome to my GitHub profile! I'm passionate about creating and contributing to 
 - **[CS2 Wallpapers](http://cs2wallpapers.skincade.com)**: Beautify your desktop with our collection of CS2-themed wallpapers.
 - **[VAC Ban Checker](http://vacbanchecker.skincade.com)**: Quickly check the VAC status of Steam profiles.
 - **[SteamID Finder](http://steamidfinder.skincade.com)**: Easily find and retrieve SteamID information.
-- **[Faceit Finder](http://faceitfinder.skincade.cm)**: Locate and view Faceit profiles effortlessly.
+- **[Faceit Finder](http://faceitfinder.skincade.com)**: Locate and view Faceit profiles effortlessly.
 - **[CS2 Case Simulator](http://cs2casesimulator.skincade.com)**: Experience the excitement of CS2 case openings.
